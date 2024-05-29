@@ -1,0 +1,15 @@
+algorithm.result.status.00=算法层正常
+algorithm.result.status.01=请求方式异常
+algorithm.result.status.02=数据异常
+algorithm.result.status.03=结构化道路寻路失败，请检查路段缺失或车辆朝向反向
+algorithm.result.status.04=起点在障碍物中，或起点离边界太近
+algorithm.result.status.05=终点在障碍物中，或终点离边界太近
+algorithm.result.status.06=找不到可行驶的路线，请调整起点或者终点位置和航向角
+algorithm.result.status.07=起点不在作业面内，入场点、出场点和作业点需在对应作业面内
+algorithm.result.status.08=终点不在作业面内，入场点、出场点和作业点需在对应作业面内
+algorithm.result.status.09=无法生成卸载点
+algorithm.result.status.10=其他异常
+algorithm.requestException=算法请求异常，请检查算法服务是否正常
+algorithm.validation.nullArg=提供的参数: {0} 为空
+algorithm.validation.curve=路径规划的点集存在曲率超限的点
+

@@ -1,0 +1,14 @@
+algorithm.result.status.00=Algorithm layer is normal
+algorithm.result.status.01=Request mode exception
+algorithm.result.status.02=Data Exception
+algorithm.result.status.03=Structured path discovering failed, please check for missing path section or vehicle direction
+algorithm.result.status.04=The starting point is in an obstacle, or the starting point is too close to the boundary
+algorithm.result.status.05=The end point is in an obstacle, or the end point is too close to the boundary
+algorithm.result.status.06=Can't find available driving routes, please adjust the starting or ending position and heading Angle
+algorithm.result.status.07=The starting point is not in the operation plane, and the entry point, exit point and operation point should be in the corresponding operation plane
+algorithm.result.status.08=The end point is not in the operation plane, and the entry point, exit point and operation point should be in the corresponding operation plane
+algorithm.result.status.09=Can't generate the dumping point
+algorithm.result.status.10=Other exceptions
+algorithm.requestException=The algorithm request is abnormal. Please check whether the algorithm service is normal
+algorithm.validation.nullArg=Provided parameter: {0} is none
+algorithm.validation.curve=There are points with curvature overrun in the point set of path planning
